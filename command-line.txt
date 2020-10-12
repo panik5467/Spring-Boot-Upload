@@ -1,0 +1,16 @@
+
+https://www.baeldung.com/spring-boot-change-port
+java -jar spring-5.jar --server.port=8083
+
+https://www.baeldung.com/spring-boot-context-path
+java -jar app.jar --server.servlet.context-path=/baeldung
+
+C:\Users\PC\Documents\Eclipse\workspace\upload\Spring-Upload\UploadApplication\target
+U
+java -jar UploadApplication-0.0.1-SNAPSHOT.jar --server.port=8083 --server.servlet.context-path=/baeldung
+
+UPLOAD_LOCATION = "/java-exec/upload-dir/";
+
+Source Web:
+https://www.opencodez.com/java/file-upload-and-download-in-java-spring-boot.htm
+https://github.com/pavansolapure/opencodez-samples/tree/master/spring-boot-upload
