@@ -6,7 +6,7 @@ https://www.baeldung.com/spring-boot-context-path
 java -jar app.jar --server.servlet.context-path=/baeldung
 
 C:\Users\PC\Documents\Eclipse\workspace\upload\Spring-Upload\UploadApplication\target
-U
+
 java -jar UploadApplication-0.0.1-SNAPSHOT.jar --server.port=8083 --server.servlet.context-path=/baeldung
 
 UPLOAD_LOCATION = "/java-exec/upload-dir/";
